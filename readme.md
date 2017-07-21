@@ -91,13 +91,13 @@ The primary goals with this textbook are, to solidify the grammar, vocabulary an
 * [Hacking Kanji](https://nihongoshark.com/learn-kanji/) - Guide: 2,200 Kanji in 97 Days.
 * [Kanji Koohii](https://kanji.koohii.com/) - Help you complete the kanji learning method called Remembering the Kanji.
 * [Kanji Damage](http://www.kanjidamage.com/introduction) - A Kanji learning method.
-* [Wakikani](https://www.wanikani.com/) - Kanji learning platform:moneybag:
+* [Wanikani](https://www.wanikani.com/) - Kanji learning platform:moneybag:
 * Anki Deck
 	* [Kodansha kanji learner's course with vocabulary](https://ankiweb.net/shared/info/779483253) - :card_index:This deck is meant to be used together with the Kodansha Kanji Learner's Course book (KLC).
 	* [Official KanjiDamage deck](https://ankiweb.net/shared/info/748570187) - :card_index:This is the ultimate deck to learn Kanji with the KanjiDamage method.
 	* [All in One Kanji Deck (Heisig's RTK Order, 6th ed.)](https://ankiweb.net/shared/info/1862058740) - :card_index:Based on Heisig's Remember the Kanji 6th ed. book
 
-## Vocaulary
+## Vocabulary
 
 * [Anki](https://apps.ankiweb.net/) - Popular flashcard based software.:iphone::computer:
 	* [Anki User Manual](https://apps.ankiweb.net/docs/manual.html)
@@ -113,6 +113,7 @@ The primary goals with this textbook are, to solidify the grammar, vocabulary an
 * [Visualize Japanese Grammar](https://www2.gwu.edu/~eall/vjg/vjghomepage/vjghome.htm) - links to 66 animations of various grammatical structures in Japanese and 12 downloadable appendices.
 * [JGram](http://www.jgram.org/) - The Japanese Grammar Database.
 * [Maggie Sensei](http://maggiesensei.com/) - Conversational Grammar
+* [Imabi](http://www.imabi.net) - Hundreds of Japanese lessons from zero to classical Japanese 
 * :book:Amazon:moneybag:
 	* [A Dictionary of Basic Japanese Grammar](http://a.co/fMGHlG2) - Popular Japanese grammar dictionary series:baby:
 	* [A Dictionary of Intermediate Japanese Grammar](http://amzn.to/2txGg9H) - :man:
@@ -124,6 +125,7 @@ The primary goals with this textbook are, to solidify the grammar, vocabulary an
 * [Japanese Folktales](http://www.e-hon.jp/ehon_jp/index1.htm) - Japanese folktales with drawing and audio.:jp:
 * [Hukumusume Fairy Tale Collection](http://hukumusume.com/douwa/) - A website where you can read and hear traditional folk tales, legends and fairy stories - from Japan and all around the world - read aloud for you in Japanese.:jp:
 * [Kyoko Shinbun](http://kyoko-np.net/index.html) - Fake Japanese News(similar to The Onion), podcast available.:iphone::jp::older_man:
+* [Aozora Bunko](http://www.aozora.gr.jp) - Works by Japanese authors, mostly in public domain:jp::older_man:
 * [用例.jp](http://yourei.jp/) - Search engine for Japanese sample sentences:jp:
 * [Japanese in Anime & Manga](http://anime-manga.jp/) - Learn Japanese from anime and manga. 
 
